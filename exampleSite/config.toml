@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Mudete Investment"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Mudete Investment Limited](https://mudeteinvestment.netlify.app) All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -73,7 +73,7 @@ name = "Contact"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Mudete Investment Limited](https://mudeteinvestment.netlify.app) All Rights Reserved"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
