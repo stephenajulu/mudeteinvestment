@@ -140,22 +140,22 @@ weight = 7
 [params]
 author = "Stephen Ajulu"
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "Mudete Investment is an indigenous Kenyan owned mineral exploration and mining company which began operations in late 2019. The company was founded by Kenyans with a passion in mineral exploration. It has since been exploring in Kakamega and Kisumu for gold (Au) and other precious minerals."
+email = "mudeteinv@gmail.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Nairobi, Kenya"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "0726024210"
 multi_author = false
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Contact Us"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -178,7 +178,7 @@ link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
